@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **on LinkedIn**
 
-- ⚡ Fun fact **: I don't know everything, but I know where to find, assimilate and apply it**
+- ⚡ Fun fact **: I may not know everything, but I sure know where to find, assimilate and apply it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
