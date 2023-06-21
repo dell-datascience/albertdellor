@@ -5,13 +5,8 @@
 
 ![](https://github.com/dell-datascience/dell-datascience/blob/main/Data_flow.png)
 
-- 🔭 As an experienced data professional, I specialise in unlocking the value of data to drive business success.🌱 I help companies **leverage** their legacy data systems, from data ingestion and ETL processes to cloud data lakes and warehouse design. By extracting insights and deploying machine learning models, I **empower** organisations to make **data-driven decisions**, **optimise product offerings**, and **gain a competitive edge**.
-- 👯 With expertise in **data engineering** and **cloud technologies**, I create accurate data models and automate pipelines for seamless data integration. This enables effective decision-making, whether it's for day-to-day operations or broader business strategies.
-- 🌱 Leveraging the scalability, reliability, and security of the cloud, along with tools like Apache Spark, Apache Airflow, Apache Kafka, Tableau, and Looker, I ensure **intelligent solutions** for problem-solving. 
+- 🔭 As an experienced data professional, I specialise in unlocking the value of data to drive business success.🌱 I help companies **leverage** their legacy data systems, from data ingestion and ETL processes to cloud data lakes and warehouse design. By extracting insights and deploying machine learning models, I **empower** organisations to make **data-driven decisions**, **optimise product offerings**, and **gain a competitive edge**. 👯 With expertise in **data engineering** and **cloud technologies**, I create accurate data models and automate pipelines for seamless data integration. This enables effective decision-making, whether it's for day-to-day operations or broader business strategies. 🌱 Leveraging the scalability, reliability, and security of the cloud, along with tools like Apache Spark, Apache Airflow, Apache Kafka, Tableau, and Looker, I ensure **intelligent solutions** for problem-solving. 
 - ⚡ Data is the new gold, and I help companies mine their gold by leveraging the **entire data ecosystem**, from data engineering to data analysis and machine learning.
-
-- 💬 Ask me about **anything data science related and I would be happy to help**
-
 - ⚡ Fun fact **: I may not know everything, but I sure know where to find, assimilate and apply it**
 
 <h3 align="left">Connect with me:</h3>
